@@ -21,9 +21,9 @@ Operations and logistics coordinator with hands-on experience across high-volume
 
 ## 💼 About Me
 
-- 🎓 Master of Management (Business Administration) — Macquarie University
-- 🧭 Currently: Warehouse Operator @ DSV — inventory accuracy, WMS (CargoWise, SAP), intake/dispatch compliance
-- 🔍 Prior: Business Analysis & HR liaison at Amazon, process auditing at Nippon Express, PM Intern at Skillojo
+- 🎓 Master of Management (Business Administration, Business Analytics) — Macquarie University
+- 🧭 Currently: Inventory Counter / Warehouse Operator @ DSV — 99%+ inventory accuracy across a 10,000+ SKU warehouse, WMS (CargoWise, SAP)
+- 🔍 Prior: Business Analyst/HR liaison for 200+ associates at Amazon, process auditing at Nippon Express, PM Intern at Skillojo
 - 📊 Certified: Microsoft/LinkedIn Business Analysis, Deloitte Data Analytics Job Simulation
 - 🎯 Targeting: Business Analyst, Operations Coordinator, Supply Chain Analyst and Project Coordinator roles — where analytical capability and floor-level operational knowledge combine to drive real efficiency outcomes
 
@@ -70,10 +70,10 @@ End-to-end interactive Excel dashboard — advanced pivot tables, slicers and dy
 
 ## 🏆 Highlights
 
-- Served as business analysis & HR liaison for **200+ operational associates** at Amazon, translating frontline insights into formal documentation
-- Led investigative analysis into stock/inventory anomalies at Nippon Express, structuring findings into escalation briefings for operations management
-- Recognised formally by supervisors for communication quality, on-time delivery and cross-team collaboration (Skillojo)
-- Managed end-to-end B2B sales pipeline, consistently hitting monthly revenue targets through structured pipeline analysis
+- Business Analyst/HR liaison for **200+ operational associates** across three shifts at Amazon, resolving 15–20 escalations per shift within a 30-minute SLA
+- Maintained **99%+ inventory accuracy** across a 10,000+ SKU warehouse at DSV through daily cycle counts and WMS reconciliation
+- Recognised by supervisor for communication, teamwork and **100% on-time delivery** across all milestones (Skillojo)
+- Managed a **50+ account** B2B pipeline at Krisper, consistently hitting monthly revenue targets through structured CRM tracking and forecasting
 
 ---
 
