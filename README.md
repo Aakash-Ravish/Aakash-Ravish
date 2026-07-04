@@ -60,10 +60,20 @@ End-to-end interactive Excel dashboard — advanced pivot tables, slicers and dy
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Certifications & Education
 
-![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakash-Ravish&show_icons=true&theme=tokyonight&hide_border=false&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Ravish&layout=compact&theme=tokyonight&hide_border=false)
+- **Master of Management — Business Administration**, Macquarie University — business analytics, project management, organisational strategy
+- **Career Essentials in Business Analysis** — Microsoft & LinkedIn Learning
+- **Data Analytics Job Simulation** — Deloitte Australia
+- **Introduction to Tableau** & **Excel for Data Analysis** — Codecademy
+- Bachelor of Commerce (Business, Management & Marketing) — Kurukshetra University, India
+
+## 🏆 Highlights
+
+- Served as business analysis & HR liaison for **200+ operational associates** at Amazon, translating frontline insights into formal documentation
+- Led investigative analysis into stock/inventory anomalies at Nippon Express, structuring findings into escalation briefings for operations management
+- Recognised formally by supervisors for communication quality, on-time delivery and cross-team collaboration (Skillojo)
+- Managed end-to-end B2B sales pipeline, consistently hitting monthly revenue targets through structured pipeline analysis
 
 ---
 
