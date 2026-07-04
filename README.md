@@ -3,9 +3,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aakash-Ravish&color=blueviolet&style=flat-square&label=Profile+Views)
 
-### Business Analyst | Master of Management, Macquarie University | Data & Operations
+### Operations & Business Analyst | Master of Management, Macquarie University | Supply Chain · Data Analytics
 
-I turn messy operational data into decisions — requirements gathering, process mapping and dashboards that stakeholders actually use. Background spans warehouse operations, logistics and B2B sales, now channelled into business analysis and data analytics.
+Operations and logistics coordinator with hands-on experience across high-volume warehouse operations, freight intake and supply chain coordination at DSV, Nippon Express and Amazon — paired with a Business Analyst's toolkit for turning that floor-level knowledge into decisions. I apply advanced Excel, SQL and Tableau to deliver data-driven operational reporting and process improvement, with a track record coordinating 200+ associate workforce logistics and freight documentation compliance across import/export operations.
 
 ---
 
@@ -25,7 +25,7 @@ I turn messy operational data into decisions — requirements gathering, process
 - 🧭 Currently: Warehouse Operator @ DSV — inventory accuracy, WMS (CargoWise, SAP), intake/dispatch compliance
 - 🔍 Prior: Business Analysis & HR liaison at Amazon, process auditing at Nippon Express, PM Intern at Skillojo
 - 📊 Certified: Microsoft/LinkedIn Business Analysis, Deloitte Data Analytics Job Simulation
-- 🎯 Targeting: Business Analyst, Operations Coordinator, Project Coordinator roles
+- 🎯 Targeting: Business Analyst, Operations Coordinator, Supply Chain Analyst and Project Coordinator roles — where analytical capability and floor-level operational knowledge combine to drive real efficiency outcomes
 
 ---
 
