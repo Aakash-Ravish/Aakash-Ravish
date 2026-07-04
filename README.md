@@ -45,6 +45,9 @@ Operations and logistics coordinator with hands-on experience across high-volume
 
 ## 📌 Featured Projects
 
+### 🔍 [Supply Chain Fulfilment Analysis](https://github.com/Aakash-Ravish/Supply-Chain-Fulfilment-Analysis-)
+SQL root-cause analysis on a synthetic inventory/dispatch dataset modeled on real warehouse fulfilment problems. Identified a supplier lead-time mismatch driving 67% of shortfall units and a weekday demand-spike pattern driving 9% — and ruled out a third hypothesis the data didn't actually support.
+
 ### 📊 [Tableau Sales Performance Dashboard](https://github.com/Aakash-Ravish/Sales-Dashboard-Tableau)
 Fully interactive Tableau dashboard built from raw sales data — requirements gathering through to published output, replicating a consulting BI deliverable.
 
