@@ -11,6 +11,7 @@ Operations and logistics coordinator with hands-on experience across high-volume
 
 ## 🌐 Connect with me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-e54c2a?logo=googlechrome&logoColor=white)](https://aakash-ravish.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-ravish-305639308)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Aakash-Ravish)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakashravish@gmail.com)
