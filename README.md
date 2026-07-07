@@ -48,24 +48,34 @@ Also comfortable shipping web tooling when the job calls for it — my [North St
 
 ## 📌 Featured Projects
 
-### 🐧 [North Star — AI Wellness Companion](https://github.com/Aakash-Ravish/north-star)
-A mental-wellness web app with an animated penguin companion (Pip): mood tracking, journalling, AI chat and weekly insights. Next.js 16 / React 19 / TypeScript / Tailwind CSS 4, powered by the Claude API, with all user data stored locally in the browser — no accounts, no database. **[Live app →](https://north-star-liard.vercel.app)**
+Every project below is real, reproducible, and comes with a one-line finding I can defend in an interview.
 
-### 🔍 [Supply Chain Fulfilment Analysis](https://github.com/Aakash-Ravish/Supply-Chain-Fulfilment-Analysis-)
-SQL root-cause analysis on a synthetic inventory/dispatch dataset modeled on real warehouse fulfilment problems. Identified a supplier lead-time mismatch driving 67% of shortfall units and a weekday demand-spike pattern driving 9% — and ruled out a third hypothesis the data didn't actually support.
+### 🔍 [Supply Chain Fulfilment Analysis](https://github.com/Aakash-Ravish/Supply-Chain-Fulfilment-Analysis-) — SQL root-cause analysis
+> **Finding:** a supplier lead-time mismatch drove 67% of shortfall units; a Monday demand-spike pattern drove 9% — and a third plausible hypothesis (zone reconciliation lag) was tested and **rejected** because the data didn't support it.
 
-### 📊 [Tableau Sales Performance Dashboard](https://github.com/Aakash-Ravish/Sales-Dashboard-Tableau)
-Fully interactive Tableau dashboard built from raw sales data — requirements gathering through to published output, replicating a consulting BI deliverable.
+Synthetic inventory/dispatch dataset modeled on fulfilment problems I've seen first-hand in warehouse operations. 8 SQL queries, seeded/reproducible data generator, results captured verbatim. Ruling out a wrong answer is the part most portfolios skip.
+
+### 🎧 [Spotify Streaming Data Analysis](https://github.com/Aakash-Ravish/Spotify) — 20,000 tracks, original questions
+> **Finding:** audio features don't predict streams (quartile independence test + near-zero correlations), and a coefficient-of-variation query independently surfaced Gotye & Kimbra — both sides of the textbook one-hit wonder — with no names hardcoded.
+
+Started as a guided SQL project (credited in the repo), then extended with **six self-designed business questions**: fandom engagement rates (~300× spread between K-pop and kids' content), platform-dependence segmentation, singles-vs-albums medians. `NTILE()`, `CORR()`, `PERCENTILE_CONT()`, `STDDEV_SAMP()` — all runnable end-to-end.
+
+### 🐧 [North Star — AI Wellness Companion](https://github.com/Aakash-Ravish/north-star) — shipped full-stack product · **[Live app →](https://north-star-liard.vercel.app)**
+> A mental-wellness web app with an animated penguin companion: mood tracking, journalling, AI chat, weekly insights. All user data stays in the browser — no accounts, no database.
+
+Next.js 16 / React 19 / TypeScript / Tailwind CSS 4 / Claude API. Deployed on Vercel with rate-limited API routes, crisis-detection safeguards and privacy-first design.
+
+### 📊 [Tableau Sales Performance Dashboard](https://github.com/Aakash-Ravish/Sales-Dashboard-Tableau) — live, interactive
+> **Finding:** profit up 24.4% YoY on sales down 2.8% — margin improvement, not growth, was the real story; two categories (Tables, Bookcases) ran at a loss and were flagged for repricing.
 
 [![Sales Dashboard Preview](https://public.tableau.com/static/images/Pr/Project1_17772190652080/SalesDashboard/1.png)](https://public.tableau.com/views/Project1_17772190652080/SalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-*Click the image above for the live interactive dashboard on Tableau Public.*
+*Click through for the live interactive dashboard on Tableau Public — a working link, not a screenshot.*
 
-### 🎧 [Spotify Streaming Data Analysis](https://github.com/Aakash-Ravish/Spotify)
-Complex SQL (joins, aggregations, window functions) in PostgreSQL to analyse streaming behaviour patterns and produce exploratory data analysis outputs.
+### 📈 [Vrinda Store — Excel Sales Dashboard](https://github.com/Aakash-Ravish/Vrinda-Store-Report) — end-to-end Excel BI
+> **Finding:** women aged 30–49 in three states drive the core revenue; ~80% of sales flow through just three channels — a concrete, targetable recommendation.
 
-### 📈 [Vrinda Store — Excel Sales Dashboard](https://github.com/Aakash-Ravish/Vrinda-Store-Report)
-End-to-end interactive Excel dashboard — advanced pivot tables, slicers and dynamic charts surfacing actionable business insights.
+Interactive dashboard with advanced pivot tables, slicers and dynamic charts, from raw transaction data to business recommendation.
 
 ---
 
