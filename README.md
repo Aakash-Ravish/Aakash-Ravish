@@ -42,9 +42,14 @@ Operations and logistics coordinator with hands-on experience across high-volume
 **Business Analysis:** Requirements Gathering · Process Mapping · Current/Future-State Analysis · Gap Analysis
 **Stakeholder & Change:** Stakeholder Engagement · Change Management · Executive Reporting · Workshop Facilitation
 
+Also comfortable shipping web tooling when the job calls for it — my [North Star](https://github.com/Aakash-Ravish/north-star) side project is built with TypeScript, React and Next.js.
+
 ---
 
 ## 📌 Featured Projects
+
+### 🐧 [North Star — AI Wellness Companion](https://github.com/Aakash-Ravish/north-star)
+A mental-wellness web app with an animated penguin companion (Pip): mood tracking, journalling, AI chat and weekly insights. Next.js 16 / React 19 / TypeScript / Tailwind CSS 4, powered by the Claude API, with all user data stored locally in the browser — no accounts, no database. **[Live app →](https://north-star-liard.vercel.app)**
 
 ### 🔍 [Supply Chain Fulfilment Analysis](https://github.com/Aakash-Ravish/Supply-Chain-Fulfilment-Analysis-)
 SQL root-cause analysis on a synthetic inventory/dispatch dataset modeled on real warehouse fulfilment problems. Identified a supplier lead-time mismatch driving 67% of shortfall units and a weekday demand-spike pattern driving 9% — and ruled out a third hypothesis the data didn't actually support.
