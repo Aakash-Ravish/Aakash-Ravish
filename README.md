@@ -50,7 +50,7 @@ Also comfortable shipping web tooling when the job calls for it. My [North Star]
 
 Every project below is real, reproducible, and comes with a one-line finding I can defend in an interview.
 
-### 🔍 [Supply Chain Fulfilment Analysis](https://github.com/Aakash-Ravish/Supply-Chain-Fulfilment-Analysis-): SQL root-cause analysis
+### 🔍 [Supply Chain Fulfilment Analysis](https://github.com/Aakash-Ravish/supply-chain-fulfilment-analysis): SQL root-cause analysis
 > **Finding:** a supplier lead-time mismatch drove 67% of shortfall units, a Monday demand-spike pattern drove 9%, and a third plausible hypothesis (zone reconciliation lag) was tested and **rejected** because the data didn't support it.
 
 Synthetic inventory/dispatch dataset modeled on fulfilment problems I've seen first-hand in warehouse operations. 8 SQL queries, seeded/reproducible data generator, results captured verbatim. Ruling out a wrong answer is the part most portfolios skip.
